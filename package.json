@@ -1,0 +1,10 @@
+{
+  "name": "mongapp",
+  "version": "0.0.1",
+  "description": "MEAN CRUD Rest example",
+  "decpendencies": {
+    "express": "^4.12.3",
+    "body-parser": "^1.13.3",
+    "mongodb" : "2.0.23"
+  }
+}
