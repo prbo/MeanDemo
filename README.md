@@ -1,6 +1,6 @@
 # MeanDemo
 
-Mean stack RESTful CRUD (using Angular `$resource`) demo using free [MongoLab](www.mongolab.com) account. Enjoy!
+MEAN (Mongodb Express.js Angular.js Node.js) stack RESTful CRUD (using Angular `$resource`) demo using free [MongoLab](www.mongolab.com) account. Enjoy!
 
 # Prerequisites
 
